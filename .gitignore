@@ -1,0 +1,11 @@
+data/
+secrets/
+__pycache__/
+*.parquet
+*.gpkg
+*.zip
+*.pyc
+.env
+gcp_key.json
+chromadb/
+
