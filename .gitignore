@@ -8,4 +8,15 @@ __pycache__/
 .env
 gcp_key.json
 chromadb/
+# Data files
+data/*.parquet
+data/*.csv
+data/*.geojson
+data/*.gpkg
 
+# Secrets
+secrets/*.json
+
+# System files
+.DS_Store
+notebooks/.ipynb_checkpoints/
