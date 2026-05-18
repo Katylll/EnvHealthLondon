@@ -15,8 +15,14 @@ data/*.geojson
 data/*.gpkg
 
 # Secrets
+secrets/
 secrets/*.json
+.env
+gcp_key.json
 
 # System files
 .DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
