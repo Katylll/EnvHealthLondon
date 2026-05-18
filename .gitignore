@@ -9,3 +9,4 @@ __pycache__/
 gcp_key.json
 chromadb/
 
+notebooks/.ipynb_checkpoints/
